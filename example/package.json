@@ -8,6 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
+    "post-tsdx-project": "^0.1.0",
     "react-app-polyfill": "^1.0.0"
   },
   "alias": {
